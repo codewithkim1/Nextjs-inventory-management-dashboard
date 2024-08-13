@@ -1,7 +1,6 @@
-# Fullstack Inventory Management Dashboard
+# Fullstack NextJS Inventory Management Dashboard
 
-This project is a comprehensive Inventory Management Dashboard designed to handle fullstack operations, leveraging the power of AWS for cloud-based solutions and modern front-end technologies for a seamless user experience.
-
+Nextjs Inventory Management Dashboard 
 ## Tech Stack
 
 - **Next.js**: Front-end framework for server-side rendering and static site generation.
